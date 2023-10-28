@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: rgb(4, 193, 250);
+    padding: 10px;
+}
+header a{
+    color: rgb(5, 48, 73);
+    text-decoration: rgb(230, 6, 6);
+    background-color: rgb(169, 255, 9);
+    padding: 10px;
+    margin: 5px;
+
+}
+h1{
+    background-color: cyan;
+    font-family:helvetica;
+}
+nav a{
+    background-color: rgb(203, 247, 9);
+    padding: 15px;
+    margin: 20px;
+
+}
+nav{
+    background-color: rgb(240, 141, 11);
+    text-decoration: none;
+    padding: 20px;
+    margin-left: 20pxpx;
+    border: 2px solid cyan; 
+    
+    
+
+}
+
+h2{
+    font-size: 66px;
+    font-family:cursive;
+    color: darkturquoise;
+}
+p{
+   color: darkviolet;
+   font-size: 50px;
+}
+footer{
+    background-color: rgb(6, 247, 243);
+    color: gold;
+}
+body{
+    background-color: lightblue;
+}
